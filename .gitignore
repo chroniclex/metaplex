@@ -37,3 +37,9 @@ traits
 traits-configuration.json
 js/packages/cli/test/assets
 js/devconfig.json
+assets
+js/create-config.json
+.gitignore
+js/no-captcha.json
+js/presale-config.json
+js/public-config.json
